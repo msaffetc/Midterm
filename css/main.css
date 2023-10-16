@@ -1,0 +1,67 @@
+/*Muhammed Saffet Coksun*/
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: normal, italic, bold, Arial, Helvetica, sans-serif;
+}
+.structral{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    font-size: medium;
+    color: aqua;
+}
+h2{
+    color: aquamarine;
+    font-size: large;
+}
+main{
+    height: 70vh;
+}
+img{
+    border: 3px solid #10b6a0;
+    width: 90%;
+    height: 80%;
+
+}
+#cat1{
+    background-color: blueviolet;
+    width: 45%;
+    height: 60%;
+    float: left;
+    margin: auto;
+    padding: 10px;
+}
+#cat2{
+    background-color: tomato;
+    width: 45%;
+    height: 60%;
+    float: right;
+    margin: auto;
+    padding: 10px;
+}
+section{
+    font-weight: bold;
+    size: 2em;
+    color: rgb(169, 169, 19);
+    padding: 5px;
+    margin-bottom: auto;
+}
+footer{
+    background-color: orchid;
+
+}
+header{
+    background-color: orchid;
+}
+a:link{
+    color: grey;
+}
+a:hover{
+    color: bisque;
+}
+li{
+    line-height: 120%;
+}
